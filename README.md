@@ -6,4 +6,5 @@ My name is Andrey and I'm a software developer. Here's what I do:
 - 🗣️ My language-translate app allows user to translate any text in 25 different languages automatically.
 - 🔗 My [npm-visualiser](https://github.com/machete38/npm_visualiser) will help you to check NPM dependencies using your phone. 
 
+Want to reach me? Contact me through my Telegram: [![Telegram Badge](https://img.shields.io/badge/-imisstheoIdkanye-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/imisstheoIdkanye)
 
