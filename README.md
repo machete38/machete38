@@ -8,3 +8,10 @@ My name is Andrey and I'm a software developer. Here's what I do:
 
 Want to reach me? Contact me through my Telegram: [![Telegram Badge](https://img.shields.io/badge/-imisstheoIdkanye-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/imisstheoIdkanye)
 
+### Skills:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
