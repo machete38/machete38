@@ -15,3 +15,7 @@ Want to reach me? Contact me through my Telegram: [![Telegram Badge](https://img
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=machete38&theme=highcontrast&hide_border=true)](https://git.io/streak-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machete38)](https://github.com/anuraghazra/github-readme-stats)
+
