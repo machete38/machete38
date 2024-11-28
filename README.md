@@ -2,7 +2,7 @@
 
 My name is Andrey and I'm a software developer. Here's what I do: 
 
-- 🌎 With my Motion travel guide [app](https://play.google.com/store/apps/details?id=com.machete3845.motion) and [website](https://www.motion.travel/en/about), I'm trying to create the biggest travel guide in the world, with the information about every country on Earth in 25 languages.
+- 🌎 With my Motion travel guide [app](https://play.google.com/store/apps/details?id=com.machete3845.motion) and [website](https://motion-web-kappa.vercel.app/en/about), I'm trying to create the biggest travel guide in the world, with the information about every country on Earth in 25 languages.
 - 🗣️ My [LanguageTranslator](https://github.com/machete38/LanguageTranslator) app allows user to translate any text to multiple different languages at the same time automatically.
 - 🔗 My [npm-visualiser](https://github.com/machete38/npm_visualiser) will help you to check NPM dependencies using your phone. 
 
