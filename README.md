@@ -6,7 +6,7 @@ My name is Andrey and I'm a software developer. Here's what I do:
 - 🗣️ My [LanguageTranslator](https://github.com/machete38/LanguageTranslator) app allows user to translate any text to multiple different languages at the same time automatically.
 - 🔗 My [npm-visualiser](https://github.com/machete38/npm_visualiser) will help you to check NPM dependencies using your phone. 
 
-Want to reach me? Contact me through my Telegram: [![Telegram Badge](https://img.shields.io/badge/-imisstheoIdkanye-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/imisstheoIdkanye)
+Want to reach me? Contact me through my Telegram: [![Telegram Badge](https://img.shields.io/badge/-machete38345-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/machete38345)
 
 ### Skills:
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
